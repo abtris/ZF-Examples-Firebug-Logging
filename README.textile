@@ -1,6 +1,6 @@
-# Zend Framework Examples
+h1.Zend Framework Examples
 
-## Firebug logging
+h2.Firebug logging
 
 In indexController set:
 
